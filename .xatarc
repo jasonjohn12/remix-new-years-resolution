@@ -1,0 +1,6 @@
+{
+  "databaseURL": "https://Jason-John-s-workspace-lqdn09.us-east-1.xata.sh/db/jason-resolutions",
+  "codegen": {
+    "output": "src/xata.ts"
+  }
+}

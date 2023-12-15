@@ -1,0 +1,16 @@
+{
+  "id": "mig_clsulkh51tlm97jossm0",
+  "parentID": "mig_clsulehufgk57snhbrf0",
+  "checksum": "1:9222ea4998a459f439571917efb9c249ce9840610ca53b9436620b93d2deb94e",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "password",
+          "type": "string"
+        },
+        "table": "users"
+      }
+    }
+  ]
+}

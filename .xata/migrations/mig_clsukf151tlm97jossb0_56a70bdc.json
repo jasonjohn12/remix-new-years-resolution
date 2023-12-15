@@ -1,0 +1,18 @@
+{
+  "id": "mig_clsukf151tlm97jossb0",
+  "parentID": "mig_clsujtp51tlm97jossa0",
+  "checksum": "1:56a70bdc85e814c3e8628b29c9fb51b3099457a3ae4977a3d5ac2f527ecd431d",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "isCompleted",
+          "type": "bool",
+          "notNull": true,
+          "defaultValue": "false"
+        },
+        "table": "resolutions"
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": "mig_clsujkeikbucdv444shg",
+  "parentID": "mig_clsuii951tlm97joss90",
+  "checksum": "1:b78573efee8eea8d58e47362e38e44faa55d347027c2168927e86f6ab7a458c2",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "resolution",
+          "type": "string",
+          "notNull": true,
+          "defaultValue": "my resolution"
+        },
+        "table": "resolutions"
+      }
+    }
+  ]
+}

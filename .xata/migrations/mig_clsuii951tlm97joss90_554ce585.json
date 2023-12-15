@@ -1,0 +1,11 @@
+{
+  "id": "mig_clsuii951tlm97joss90",
+  "checksum": "1:554ce5850fb7a8560a37aa16bcc3bd4471a43e68d5cf157895f40b97ec9cc512",
+  "operations": [
+    {
+      "addTable": {
+        "table": "resolutions"
+      }
+    }
+  ]
+}
